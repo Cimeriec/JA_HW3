@@ -8,7 +8,7 @@ public class Main {
             System.out.print(s.charAt(i));
         }
         System.out.println();
-        for (int i = s.length() / 2 + 1; i < s.length(); i++) {
+        for (int i = s.length() / 2; i < s.length(); i++) {
             System.out.print(s.charAt(i));
         }
         System.out.println();
